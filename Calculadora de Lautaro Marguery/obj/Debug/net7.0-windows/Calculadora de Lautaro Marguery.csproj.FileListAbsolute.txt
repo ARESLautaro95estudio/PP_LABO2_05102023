@@ -1,0 +1,40 @@
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.csproj.AssemblyReference.cache
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora_de_Lautaro_Marguery.Form1.resources
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.csproj.GenerateResource.cache
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.AssemblyInfoInputs.cache
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.AssemblyInfo.cs
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.csproj.CoreCompileInputs.cache
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.exe
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.deps.json
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.runtimeconfig.json
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.dll
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.pdb
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Entidades.dll
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Entidades.pdb
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.csproj.CopyComplete
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.dll
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\refint\Calculadora de Lautaro Marguery.dll
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.pdb
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.genruntimeconfig.cache
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\ref\Calculadora de Lautaro Marguery.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\refint\Calculadora de Lautaro Marguery.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.pdb
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.exe
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.deps.json
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.runtimeconfig.json
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Calculadora de Lautaro Marguery.pdb
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Entidades.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\bin\Debug\net7.0-windows\Entidades.pdb
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.csproj.AssemblyReference.cache
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora_de_Lautaro_Marguery.Form1.resources
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.csproj.GenerateResource.cache
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.AssemblyInfoInputs.cache
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.AssemblyInfo.cs
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.csproj.CoreCompileInputs.cache
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.csproj.CopyComplete
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\Calculadora de Lautaro Marguery.genruntimeconfig.cache
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Calculadora de Lautaro Marguery\obj\Debug\net7.0-windows\ref\Calculadora de Lautaro Marguery.dll

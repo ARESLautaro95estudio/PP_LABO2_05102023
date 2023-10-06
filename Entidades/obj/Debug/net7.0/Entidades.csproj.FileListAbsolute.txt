@@ -1,0 +1,24 @@
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\bin\Debug\net7.0\Entidades.deps.json
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\bin\Debug\net7.0\Entidades.dll
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\bin\Debug\net7.0\Entidades.pdb
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\Entidades.dll
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\refint\Entidades.dll
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\Entidades.pdb
+C:\Users\lemar\Desktop\ACTUAL CURSADA\Laboratorio y programacion 2\Trabajo practico\Entidades\obj\Debug\net7.0\ref\Entidades.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\bin\Debug\net7.0\Entidades.deps.json
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\bin\Debug\net7.0\Entidades.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\bin\Debug\net7.0\Entidades.pdb
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\Entidades.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\refint\Entidades.dll
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\Entidades.pdb
+C:\Users\lemar\Desktop\Primer Parcial\PRIMER PARCIAL\Entidades\obj\Debug\net7.0\ref\Entidades.dll
